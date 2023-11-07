@@ -6,4 +6,4 @@ The program will only tell the user if the generated number is higher or lower t
 
 Run the program and it will ask you to guess the number.
 
-![pic-1](asd)
+![pic-1](https://raw.githubusercontent.com/AttilaEdeMolnar/Csharp-Number-Guessing/main/assets/Screenshot%202023-11-07%20213611.png)
